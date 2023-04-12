@@ -1,0 +1,86 @@
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/Lab5
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/Lab5.deps.json
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/Lab5.runtimeconfig.json
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/Lab5.dll
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/Lab5.pdb
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/justindubin/Desktop/Lab5/Lab5/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/Lab5.csproj.AssemblyReference.cache
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/Lab5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/Lab5.AssemblyInfoInputs.cache
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/Lab5.AssemblyInfo.cs
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/Lab5.csproj.CoreCompileInputs.cache
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/Lab5.csproj.CopyComplete
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/Lab5.dll
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/refint/Lab5.dll
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/Lab5.pdb
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/Lab5.genruntimeconfig.cache
+/Users/justindubin/Desktop/Lab5/Lab5/obj/Debug/net6.0/ref/Lab5.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/Lab5
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/Lab5.deps.json
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/Lab5.runtimeconfig.json
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/Lab5.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/Lab5.pdb
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/Lab5.csproj.AssemblyReference.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/Lab5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/Lab5.AssemblyInfoInputs.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/Lab5.AssemblyInfo.cs
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/Lab5.csproj.CoreCompileInputs.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/Lab5.csproj.CopyComplete
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/Lab5.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/refint/Lab5.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/Lab5.pdb
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/Lab5.genruntimeconfig.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Spring 2023/CSCI-2910-001/Week 8/Lab5/Lab5/obj/Debug/net6.0/ref/Lab5.dll
